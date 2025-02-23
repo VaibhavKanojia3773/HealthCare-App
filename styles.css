@@ -1,0 +1,23 @@
+body {
+    background-color: #F5F5F5;
+    background-size: cover;
+    background-position: center;
+}
+
+div.stButton > button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+div.stButton > button:hover {
+    background-color: #0056b3;
+}
+
+.stSelectbox {
+    margin-bottom: 20px;
+}
+
